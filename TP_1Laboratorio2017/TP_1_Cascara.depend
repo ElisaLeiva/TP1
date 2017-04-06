@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1472303250 source:c:\users\alumno\desktop\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1472277770 c:\users\alumno\desktop\tp_1_cascara\funciones.h
+
+1472306100 source:c:\users\alumno\desktop\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1472929374 source:c:\users\florencia\desktop\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1472410870 c:\users\florencia\desktop\tp_1_cascara\funciones.h
+
+1472922391 source:c:\users\florencia\desktop\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1472522906 source:d:\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1472410870 d:\tp_1_cascara\funciones.h
+
+1472523464 source:d:\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1472940392 source:e:\tp1\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1472428870 e:\tp1\tp_1_cascara\funciones.h
+
+1491264522 source:e:\tp1\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1472940392 source:e:\tp1\tp_1laboratorio2017\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1472428870 e:\tp1\tp_1laboratorio2017\funciones.h
+
+1491264522 source:e:\tp1\tp_1laboratorio2017\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
